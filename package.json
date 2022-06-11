@@ -1,9 +1,9 @@
 {
-    "name": "nw-docs",
+    "name": "OSM_Docs",
     "version": "1.1",
     "description": "The docs made specificly for Northwood Studios, feel free to edit this file as needed.",
     "main": "index.js",
-    "repository": "https://github.com/Codixer/NW-Docs.git",
+    "repository": "https://github.com/Codixer/OSM_Docs.git",
     "author": "Stefano Haagmans <stefanohaagmans@gmail.com>",
     "license": "MIT",
     "scripts": {

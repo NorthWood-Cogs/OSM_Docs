@@ -5,7 +5,7 @@ import { pwaPlugin } from 'vuepress-plugin-pwa2'
 
 
 export default defineUserConfig({
-    base: '/NW-Docs/',
+    base: '/OSM_Docs/',
     head,
     dest: "./docs",
     // site-level locales config

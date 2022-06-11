@@ -1,7 +1,7 @@
 import type { HeadConfig } from '@vuepress/core'
 import defineUserConfig from '../config';
 
-let base = '/NW-Docs/'
+let base = '/OSM_Docs/'
 
 export const head: HeadConfig[] = [
   ['link', { rel: 'icon', href: base + 'images/nwlogo.png' }],
