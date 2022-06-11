@@ -1,0 +1,18 @@
+{
+    "name": "nw-docs",
+    "version": "1.1",
+    "description": "The docs made specificly for Northwood Studios, feel free to edit this file as needed.",
+    "main": "index.js",
+    "repository": "https://github.com/Codixer/NW-Docs.git",
+    "author": "Stefano Haagmans <stefanohaagmans@gmail.com>",
+    "license": "MIT",
+    "scripts": {
+        "dev": "vuepress dev docs",
+        "build": "vuepress build docs"
+    },
+    "devDependencies": {
+        "@vuepress/plugin-back-to-top": "^2.0.0-beta.46",
+        "vuepress": "^2.0.0-beta.46",
+        "vuepress-plugin-pwa2": "^2.0.0-beta.79"
+    }
+}
