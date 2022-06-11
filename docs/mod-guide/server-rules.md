@@ -1,5 +1,8 @@
 # Offical SCP:SL Server Rules
 ---
+:::tip The Friendly Fire Rule.
+Intentional Friendly Fire, including teamkilling, is strictly prohibited. Protecting yourself and others is fine, however.
+:::
 1.  Cheating and exploiting`[1]` are strictly prohibited.
 2.  Phishing, scamming, and other illegal activities are strictly prohibited.
 3.  Promotion of suicide in real life and other life-threatening ideas/thoughts/threats is strictly prohibited.
